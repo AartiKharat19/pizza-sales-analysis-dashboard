@@ -51,3 +51,11 @@ https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_
 # 🚀 Conclusion
 
 This project demonstrates the use of Power BI, Power Query, and DAX to transform sales data into meaningful business insights through interactive visualizations.
+
+# 👩‍💻 Author
+
+Aarti Kharat
+
+Computer Engineering Graduate | Aspiring Data Analyst
+
+Skills: SQL | Excel | Power BI | Python Basics
