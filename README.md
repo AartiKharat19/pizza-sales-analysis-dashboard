@@ -46,4 +46,4 @@ The dashboard analyzes the following areas:
 # dataset
 https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv
 # Dashboard
-<img src="https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv" alt="View Dashboard">
+<img src="https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/Dashboard.png" alt="View Dashboard">
