@@ -17,3 +17,21 @@ Understand daily and monthly sales trends.
 Identify peak sales periods.
 
 Support data-driven business decisions.
+
+#🛠️ Tools & Technologies
+
+Microsoft Power BI – Dashboard creation and visualization
+
+Power Query – Data cleaning and transformation
+
+DAX – Calculated measures and KPIs
+
+CSV / Excel – Data source
+
+# 📊 Key Performance Indicators (KPIs)
+
+Total Revenue
+Total Orders
+Total Pizzas Sold
+Average Order Value
+Average Pizzas Per Order
