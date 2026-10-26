@@ -34,22 +34,12 @@ CSV / Excel – Data source
 
 The dashboard analyzes the following areas:
 
-1. Sales Overview
+1. Sales Overview:Provides an overview of revenue, orders, pizzas sold, and average order value.
 
-Provides an overview of revenue, orders, pizzas sold, and average order value.
+2. Category Analysis:Analyzes sales performance across different pizza categories.
 
-2. Category Analysis
+3. Size Analysis:Examines customer preferences for different pizza sizes.
 
-Analyzes sales performance across different pizza categories.
+4. Best & Worst Sellers:Identifies top-performing and low-performing pizzas based on revenue, quantity sold, and total orders.
 
-3. Size Analysis
-
-Examines customer preferences for different pizza sizes.
-
-4. Best & Worst Sellers
-
-Identifies top-performing and low-performing pizzas based on revenue, quantity sold, and total orders.
-
-5. Daily & Monthly Trends
-
-Highlights sales patterns by day of the week and month to identify peak business periods.
+5. Daily & Monthly Trends:Highlights sales patterns by day of the week and month to identify peak business periods.
