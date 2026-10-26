@@ -45,3 +45,5 @@ The dashboard analyzes the following areas:
 5. Daily & Monthly Trends:Highlights sales patterns by day of the week and month to identify peak business periods.
 # dataset
 https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv
+# grapph - sales by month
+<img src="https://img.shields.io/badge/View_Project-Click_Here-blue?style=for-the-badge" alt="View Project">
