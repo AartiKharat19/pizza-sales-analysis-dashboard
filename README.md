@@ -18,7 +18,7 @@ Identify peak sales periods.
 
 Support data-driven business decisions.
 
-#🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Microsoft Power BI – Dashboard creation and visualization
 
@@ -30,8 +30,8 @@ CSV / Excel – Data source
 
 # 📊 Key Performance Indicators (KPIs)
 
-Total Revenue
-Total Orders
-Total Pizzas Sold
-Average Order Value
-Average Pizzas Per Order
+- Total Revenue
+- Total Orders
+- Total Pizzas Sold
+- Average Order Value
+- Average Pizzas Per Order
