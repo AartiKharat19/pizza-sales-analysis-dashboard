@@ -6,17 +6,12 @@ The Pizza Sales Analysis project focuses on analyzing pizza sales data to unders
 The dashboard provides insights into total revenue, total orders, pizzas sold, average order value, popular pizza categories, pizza sizes, and sales trends.
 # 🎯 Project Objectives
 
-Analyze overall pizza sales performance.
-
-Identify the most popular pizza categories and sizes.
-
-Find the best-selling and worst-selling pizzas.
-
-Understand daily and monthly sales trends.
-
-Identify peak sales periods.
-
-Support data-driven business decisions.
+- Analyze overall pizza sales performance.
+- Identify the most popular pizza categories and sizes.
+- Find the best-selling and worst-selling pizzas.
+- Understand daily and monthly sales trends.
+- Identify peak sales periods.
+- Support data-driven business decisions.
 
 # 🛠️ Tools & Technologies
 
