@@ -43,3 +43,5 @@ The dashboard analyzes the following areas:
 4. Best & Worst Sellers:Identifies top-performing and low-performing pizzas based on revenue, quantity sold, and total orders.
 
 5. Daily & Monthly Trends:Highlights sales patterns by day of the week and month to identify peak business periods.
+# dataset
+https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv
