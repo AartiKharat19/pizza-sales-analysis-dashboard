@@ -47,3 +47,7 @@ The dashboard analyzes the following areas:
 https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv
 # Dashboard
 <img src="https://github.com/AartiKharat19/pizza-sales-analysis-dashboard/blob/main/Dashboard.png" alt="View Dashboard">
+
+# 🚀 Conclusion
+
+This project demonstrates the use of Power BI, Power Query, and DAX to transform sales data into meaningful business insights through interactive visualizations.
